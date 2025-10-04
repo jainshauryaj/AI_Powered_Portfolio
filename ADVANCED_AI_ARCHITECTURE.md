@@ -501,7 +501,6 @@ GET /api/health
 
 ### **Q1 2025: Advanced Features**
 - **Multi-Modal RAG**: Image and document processing
-- **Advanced MCP Tools**: GitHub, Jira, Slack integrations  
 - **Personalization Engine**: User preference learning
 - **Advanced Analytics**: Conversation insight mining
 
